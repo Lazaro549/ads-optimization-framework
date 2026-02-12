@@ -1,5 +1,5 @@
 # Ads Optimization Framework
-
+![](assets/logo.png)
 A structured methodology for optimizing paid media campaigns across multiple advertising platforms.
 
 ## Overview
